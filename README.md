@@ -1,1 +1,1 @@
-# ts-full
+# This is a repo for the [TypeScript course](https://learn.purpleschool.ru/student/courses/9966312a-f82e-425b-b472-92be279717e7)
